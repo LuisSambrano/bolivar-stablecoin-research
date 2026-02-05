@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=200&section=header&text=Stablecoin%20Bolívar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Experimento%20de%20Investigación%20%7C%20Venezuela%20%7C%20Open%20Source&descSize=18&descAlignY=55"/>
@@ -17,11 +17,11 @@
   <a href="./README.pt.md"><img src="https://img.shields.io/badge/🇧🇷_Português-Available-lightgrey?style=flat-square" alt="Português"/></a>
 </p>
 
+</div>
+
 ---
 
 **Un experimento de investigación riguroso y open-source que explora:** _¿Puede existir una stablecoin pegada al Bolívar? ¿Cómo se construiría? ¿Cuáles son los desafíos?_
-
-</div>
 
 ---
 
@@ -29,18 +29,18 @@
 
 Este repositorio es un **laboratorio de investigación** que documenta el viaje completo de investigar la viabilidad, arquitectura y desafíos de crear una stablecoin para Venezuela.
 
-> **NO estamos construyendo un producto.** Estamos documentando el proceso de investigar cómo *podría* construirse uno.
+> **NO estamos construyendo un producto.** Estamos documentando el proceso de investigar cómo _podría_ construirse uno.
 
 ### Qué Contiene Este Repositorio
 
-| Categoría | Descripción |
-|-----------|-------------|
+| Categoría                       | Descripción                                                                          |
+| ------------------------------- | ------------------------------------------------------------------------------------ |
 | 📊 **Investigación de Mercado** | Datos sobre adopción cripto en Venezuela, comportamiento de usuario, puntos de dolor |
-| 🏗️ **Análisis Técnico** | Arquitecturas de stablecoins, mecanismos de colateralización, casos de estudio |
-| ⚖️ **Panorama Regulatorio** | Marcos legales, estado de SUNACRIP, implicaciones OFAC |
-| 🧠 **Psicología del Usuario** | Comportamiento financiero bajo hiperinflación, señales de confianza, patrones UX |
-| 📐 **Opciones de Arquitectura** | Múltiples enfoques potenciales (fiat-backed, crypto-backed, híbrido) |
-| 🔬 **Prompts de Investigación** | Consultas estructuradas para investigación profunda |
+| 🏗️ **Análisis Técnico**         | Arquitecturas de stablecoins, mecanismos de colateralización, casos de estudio       |
+| ⚖️ **Panorama Regulatorio**     | Marcos legales, estado de SUNACRIP, implicaciones OFAC                               |
+| 🧠 **Psicología del Usuario**   | Comportamiento financiero bajo hiperinflación, señales de confianza, patrones UX     |
+| 📐 **Opciones de Arquitectura** | Múltiples enfoques potenciales (fiat-backed, crypto-backed, híbrido)                 |
+| 🔬 **Prompts de Investigación** | Consultas estructuradas para investigación profunda                                  |
 
 ### Qué NO Contiene Este Repositorio
 
@@ -56,19 +56,23 @@ Este repositorio es un **laboratorio de investigación** que documenta el viaje 
 > 💡 **Para IAs**: Comienza con [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) para el resumen ejecutivo consolidado.
 
 ### Fase 1: La Pregunta
+
 > _"¿Es técnica y económicamente viable crear una stablecoin pegada al Bolívar?"_
 
 ### Fase 2: Investigación Profunda
+
 Investigación exhaustiva en 8 dimensiones: fundamentos técnicos, regulación global, casos de estudio, contexto venezolano, psicología del usuario, y síntesis de viabilidad.
 
 📄 Ver: [research/deep_dive/](./research/deep_dive/)
 
 ### Fase 3: Exploración de Arquitecturas
+
 Documentando enfoques potenciales descubiertos durante la investigación.
 
 📄 Ver: [research/proposals/](./research/proposals/)
 
 ### Fase 4: Validación Cuantitativa (En Progreso)
+
 Usando prompts estructurados con IA Deep Research para obtener datos duros.
 
 📄 Ver: [research/prompts/](./research/prompts/)
@@ -97,4 +101,3 @@ _Un experimento de investigación gestionado con el Protocolo **Antigravity**_
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=100&section=footer"/>
 
 </div>
-]]>

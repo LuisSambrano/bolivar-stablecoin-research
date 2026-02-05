@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=200&section=header&text=Bolívar%20Stablecoin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Research%20Experiment%20%7C%20Venezuela%20%7C%20Open%20Source&descSize=18&descAlignY=55"/>
@@ -17,11 +17,11 @@
   <a href="./README.pt.md"><img src="https://img.shields.io/badge/🇧🇷_Português-Available-lightgrey?style=flat-square" alt="Português"/></a>
 </p>
 
+</div>
+
 ---
 
 **A rigorous, open-source research experiment exploring:** _Can a Bolivar-pegged stablecoin exist? How would one be built? What are the challenges?_
-
-</div>
 
 ---
 
@@ -29,18 +29,18 @@
 
 This repository is a **research laboratory** documenting the complete journey of investigating the viability, architecture, and challenges of creating a stablecoin for Venezuela.
 
-> **We are NOT building a product.** We are documenting the process of researching how one *could* be built.
+> **We are NOT building a product.** We are documenting the process of researching how one _could_ be built.
 
 ### What This Repository Contains
 
-| Category | Description |
-|----------|-------------|
-| 📊 **Market Research** | Data on crypto adoption in Venezuela, user behavior, pain points |
-| 🏗️ **Technical Analysis** | Stablecoin architectures, collateralization mechanisms, case studies |
-| ⚖️ **Regulatory Landscape** | Legal frameworks, SUNACRIP status, OFAC implications |
-| 🧠 **User Psychology** | Financial behavior under hyperinflation, trust signals, UX patterns |
-| 📐 **Architecture Options** | Multiple potential approaches (fiat-backed, crypto-backed, hybrid) |
-| 🔬 **Research Prompts** | Structured queries for deep research on specific topics |
+| Category                    | Description                                                          |
+| --------------------------- | -------------------------------------------------------------------- |
+| 📊 **Market Research**      | Data on crypto adoption in Venezuela, user behavior, pain points     |
+| 🏗️ **Technical Analysis**   | Stablecoin architectures, collateralization mechanisms, case studies |
+| ⚖️ **Regulatory Landscape** | Legal frameworks, SUNACRIP status, OFAC implications                 |
+| 🧠 **User Psychology**      | Financial behavior under hyperinflation, trust signals, UX patterns  |
+| 📐 **Architecture Options** | Multiple potential approaches (fiat-backed, crypto-backed, hybrid)   |
+| 🔬 **Research Prompts**     | Structured queries for deep research on specific topics              |
 
 ### What This Repository Does NOT Contain
 
@@ -104,6 +104,7 @@ bolivar-stablecoin-research/
 > 💡 **For AIs**: Start with [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) for the consolidated executive summary.
 
 ### Phase 1: The Question
+
 > _"Is it technically and economically viable to create a Bolivar-pegged stablecoin?"_
 
 We started by analyzing public discussions about this concept and conducting initial viability research.
@@ -111,7 +112,9 @@ We started by analyzing public discussions about this concept and conducting ini
 📄 See: [viability_analysis.md](./research/viability_analysis.md)
 
 ### Phase 2: Deep Research
+
 Exhaustive investigation across 8 dimensions:
+
 1. Stablecoin fundamentals & mechanisms
 2. Global regulatory landscape (MiCA, GENIUS Act)
 3. Case studies: USDC success vs. Terra failure
@@ -124,7 +127,9 @@ Exhaustive investigation across 8 dimensions:
 📄 See: [research/deep_dive/](./research/deep_dive/)
 
 ### Phase 3: Architecture Exploration
+
 Documenting potential approaches discovered during research:
+
 - Fiat-backed (1:1 reserve)
 - Crypto-collateralized
 - Hybrid/Layer solutions ("Invisible Gateway" concept)
@@ -132,6 +137,7 @@ Documenting potential approaches discovered during research:
 📄 See: [research/proposals/](./research/proposals/)
 
 ### Phase 4: Quantitative Validation (In Progress)
+
 Using structured prompts with AI Deep Research to gather hard data.
 
 📄 See: [research/prompts/](./research/prompts/)
@@ -142,14 +148,14 @@ Using structured prompts with AI Deep Research to gather hard data.
 
 We've created 6 specialized prompts for use with **Gemini Deep Research**:
 
-| Prompt | Research Focus | Status |
-|--------|----------------|--------|
-| [01_market_data.md](./research/prompts/01_market_data.md) | Quantitative market metrics | ✅ Completed |
+| Prompt                                                                      | Research Focus                | Status       |
+| --------------------------------------------------------------------------- | ----------------------------- | ------------ |
+| [01_market_data.md](./research/prompts/01_market_data.md)                   | Quantitative market metrics   | ✅ Completed |
 | [02_competitive_analysis.md](./research/prompts/02_competitive_analysis.md) | Binance competitive landscape | ✅ Completed |
-| [03_regulatory_framework.md](./research/prompts/03_regulatory_framework.md) | Post-Petro legal landscape | ✅ Completed |
-| [04_user_psychology.md](./research/prompts/04_user_psychology.md) | Financial trauma & trust | 🟡 Pending |
-| [05_business_model.md](./research/prompts/05_business_model.md) | Unit economics of ramps | 🟡 Pending |
-| [06_liquidity_risk.md](./research/prompts/06_liquidity_risk.md) | Market maker viability | 🟡 Pending |
+| [03_regulatory_framework.md](./research/prompts/03_regulatory_framework.md) | Post-Petro legal landscape    | ✅ Completed |
+| [04_user_psychology.md](./research/prompts/04_user_psychology.md)           | Financial trauma & trust      | 🟡 Pending   |
+| [05_business_model.md](./research/prompts/05_business_model.md)             | Unit economics of ramps       | 🟡 Pending   |
+| [06_liquidity_risk.md](./research/prompts/06_liquidity_risk.md)             | Market maker viability        | 🟡 Pending   |
 
 ---
 
@@ -178,6 +184,7 @@ This project adheres to strict ethical guidelines documented in [manifesto.md](.
 ## 🤝 Contributing
 
 We welcome contributions in:
+
 - 📊 Economic modeling & data analysis
 - 🔐 Technical architecture review
 - ⚖️ Regulatory compliance research
@@ -199,4 +206,3 @@ _A research experiment managed with **Antigravity** Protocol_
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=100&section=footer"/>
 
 </div>
-]]>
