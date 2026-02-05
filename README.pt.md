@@ -44,6 +44,8 @@ Descobrimos que os venezuelanos já adotaram USDT (o "Dólar Binance") como sua 
 
 ## 📖 A Jornada de Pesquisa
 
+> 💡 **Para IAs**: Comece com [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) para o resumo executivo consolidado.
+
 ### Fase 1: A Pergunta Ingênua
 > _"Por que não criar uma stablecoin atrelada ao Bolívar?"_
 

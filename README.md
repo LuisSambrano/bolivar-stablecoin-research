@@ -101,6 +101,8 @@ bolivar-stablecoin-research/
 
 ## 📖 Research Journey
 
+> 💡 **For AIs**: Start with [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) for the consolidated executive summary.
+
 ### Phase 1: The Question
 > _"Is it technically and economically viable to create a Bolivar-pegged stablecoin?"_
 

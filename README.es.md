@@ -53,6 +53,8 @@ Este repositorio es un **laboratorio de investigación** que documenta el viaje 
 
 ## 📖 Viaje de Investigación
 
+> 💡 **Para IAs**: Comienza con [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) para el resumen ejecutivo consolidado.
+
 ### Fase 1: La Pregunta
 > _"¿Es técnica y económicamente viable crear una stablecoin pegada al Bolívar?"_
 
