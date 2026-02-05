@@ -96,6 +96,20 @@ Este documento consolida los descubrimientos más importantes de nuestra investi
 
 ---
 
+## Hallazgo #7: La Gentrificación del Mercado (Barrera de Entrada)
+
+**Descubrimiento**: A inicios de 2026, la plataforma dominante elevó el costo de participación para comerciantes profesionales.
+
+- **Filtro de Capital**: Exigencia de depósito de **800 USDT**.
+- **Extracción de Renta**: Comisión Maker del **0,25%**.
+- **Vulnerabilidad**: Se ha generado un "descontento táctico" entre usuarios de alto volumen que buscan alternativas más económicas (CoinEx, BingX).
+
+**Implicación para el Diseño**: Existe una oportunidad inmensa para una solución que ofrezca **menores costos de entrada** manteniendo la seguridad, capturando al usuario desplazado por la "elite corporativa" de Binance.
+
+📄 Fuente: [02_competitive_results.md](./data/02_competitive_results.md)
+
+---
+
 ## Próximos Hallazgos (Pendientes)
 
 Los siguientes prompts de investigación profunda buscan datos adicionales:
