@@ -1,5 +1,8 @@
 # 🔍 Key Research Findings
 
+> ⚠️ **DISCLAIMER: ARTEFACTO DE INVESTIGACIÓN**
+> Este repositorio es un ejercicio teórico ("Sandbox"). No constituye asesoramiento financiero ni representa un producto en desarrollo activo.
+
 > _Hallazgos clave descubiertos durante el proceso de investigación._
 
 Este documento consolida los descubrimientos más importantes de nuestra investigación sobre la viabilidad de una stablecoin del Bolívar.
