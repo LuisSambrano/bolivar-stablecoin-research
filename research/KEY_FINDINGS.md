@@ -10,9 +10,10 @@ Este documento consolida los descubrimientos más importantes de nuestra investi
 
 **Descubrimiento**: El mercado venezolano ya eligió su stablecoin de facto: USDT (el "Dólar Binance").
 
-- Representa hasta 10% de pagos en comercios cotidianos
-- Se usa incluso para liquidación de contratos petroleros
-- Tiene efecto de red casi insuperable
+- **Volumen**: ~44.600 Millones USD recibidos anualmente (Jul 2024-Jun 2025).
+- **Tráfico**: Representa casi el **8% del tráfico global P2P de Binance**, triplicando proporcionalmente a mercados similares.
+- **Uso**: El 47% de transacciones minoristas se realizan en monedas estables.
+- **Efecto de red**: Tiene una posición dominante casi insuperable.
 
 **Implicación para el Diseño**: Cualquier solución debe _complementar_ al USDT, no intentar reemplazarlo.
 
@@ -85,9 +86,9 @@ Este documento consolida los descubrimientos más importantes de nuestra investi
 
 **Descubrimiento**: El usuario venezolano opera con una métrica mental única: "¿Qué tan rápido puedo convertir este Bolívar en algo que no pierda valor?"
 
-- La brecha de tiempo entre recibir dinero y convertirlo es "pérdida real"
-- Las decisiones NO se basan en APY o tecnología, sino en **tiempos de ejecución**
-- Existe un estado constante de "alerta financiera"
+- Los picos inflacionarios de 2025 superaron el 26% mensual (Mayo).
+- La inflación acumulada en solo 5 meses (Enero-Mayo 2025) fue de 105.5%.
+- Un salario mínimo pierde la mitad de su valor en menos de un trimestre.
 
 **Implicación para el Diseño**: Cualquier solución debe optimizar para **latencia mínima** (< 1 minuto ideal).
 

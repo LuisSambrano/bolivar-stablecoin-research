@@ -4,14 +4,14 @@ Este directorio contiene prompts diseñados para uso con **Gemini 3.5 Deep Resea
 
 ## Índice de Prompts
 
-| #   | Archivo                                                    | Objetivo                                          |
-| --- | ---------------------------------------------------------- | ------------------------------------------------- |
-| 1   | [01_market_data.md](./01_market_data.md)                   | Datos cuantitativos del mercado cripto venezolano |
-| 2   | [02_competitive_analysis.md](./02_competitive_analysis.md) | Análisis competitivo de Binance                   |
-| 3   | [03_regulatory_framework.md](./03_regulatory_framework.md) | Marco regulatorio Post-Petro                      |
-| 4   | [04_user_psychology.md](./04_user_psychology.md)           | Psicología financiera bajo hiperinflación         |
-| 5   | [05_business_model.md](./05_business_model.md)             | Economía unitaria de rampas fiat-cripto           |
-| 6   | [06_liquidity_risk.md](./06_liquidity_risk.md)             | Riesgo de Market Makers locales                   |
+| #   | Archivo                                                    | Resultados                              | Objetivo                                  | Estado |
+| --- | ---------------------------------------------------------- | --------------------------------------- | ----------------------------------------- | ------ |
+| 1   | [01_market_data.md](./01_market_data.md)                   | [RESULTS](../data/01_market_results.md) | Datos cuantitativos mercado cripto VZ     | [x]    |
+| 2   | [02_competitive_analysis.md](./02_competitive_analysis.md) |                                         | Análisis competitivo de Binance           |        |
+| 3   | [03_regulatory_framework.md](./03_regulatory_framework.md) |                                         | Marco regulatorio Post-Petro              |        |
+| 4   | [04_user_psychology.md](./04_user_psychology.md)           |                                         | Psicología financiera bajo hiperinflación |        |
+| 5   | [05_business_model.md](./05_business_model.md)             |                                         | Economía unitaria de rampas fiat-cripto   |        |
+| 6   | [06_liquidity_risk.md](./06_liquidity_risk.md)             |                                         | Riesgo de Market Makers locales           |        |
 
 ## Instrucciones de Uso
 
