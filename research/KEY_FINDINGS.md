@@ -110,6 +110,20 @@ Este documento consolida los descubrimientos más importantes de nuestra investi
 
 ---
 
+## Hallazgo #8: La "Legalidad Discrecional"
+
+**Descubrimiento**: El vacío legal tras la muerte del Petro y la intervención de SUNACRIP no es una parálisis, sino un sistema de permisos selectivos.
+
+- **Emisión Selectiva**: Se han detectado licencias operativas emitidas en 2025 para pasarelas de pago privadas específicas.
+- **Punición Selectiva**: Mientras se permite la operación de pagos, la minería digital es perseguida agresivamente (May 2024).
+- **Riesgo Principal**: La seguridad jurídica es un activo transaccional; lo que es legal para un actor autorizado puede ser ilegal para otro.
+
+**Implicación para el Diseño**: Una infraestructura robusta no debe basarse solo en licencias, sino en una **arquitectura de resiliencia (Celo/MiniPay)** que pueda operar incluso en escenarios de revocatoria administrativa repentina.
+
+📄 Fuente: [03_regulatory_results.md](./data/03_regulatory_results.md)
+
+---
+
 ## Próximos Hallazgos (Pendientes)
 
 Los siguientes prompts de investigación profunda buscan datos adicionales:

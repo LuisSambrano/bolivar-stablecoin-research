@@ -144,7 +144,7 @@ We've created 6 specialized prompts for use with **Gemini Deep Research**:
 |--------|----------------|--------|
 | [01_market_data.md](./research/prompts/01_market_data.md) | Quantitative market metrics | ✅ Completed |
 | [02_competitive_analysis.md](./research/prompts/02_competitive_analysis.md) | Binance competitive landscape | ✅ Completed |
-| [03_regulatory_framework.md](./research/prompts/03_regulatory_framework.md) | Post-Petro legal landscape | 🟡 Pending |
+| [03_regulatory_framework.md](./research/prompts/03_regulatory_framework.md) | Post-Petro legal landscape | ✅ Completed |
 | [04_user_psychology.md](./research/prompts/04_user_psychology.md) | Financial trauma & trust | 🟡 Pending |
 | [05_business_model.md](./research/prompts/05_business_model.md) | Unit economics of ramps | 🟡 Pending |
 | [06_liquidity_risk.md](./research/prompts/06_liquidity_risk.md) | Market maker viability | 🟡 Pending |
@@ -167,7 +167,7 @@ This project adheres to strict ethical guidelines documented in [manifesto.md](.
 - [x] **Phase 1**: Initial hypothesis & viability analysis
 - [x] **Phase 2**: Deep research (8 modules)
 - [x] **Phase 3**: Architecture options exploration
-- [ ] **Phase 4**: Quantitative data collection (In Progress: 2/6)
+- [ ] **Phase 4**: Quantitative data collection (In Progress: 3/6)
 - [ ] **Phase 5**: Comparative analysis & synthesis
 - [ ] **Phase 6**: Final research report
 
