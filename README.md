@@ -101,7 +101,7 @@ bolivar-stablecoin-research/
 
 ## 📖 Research Journey
 
-> 💡 **For AIs**: Start with [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) for the consolidated executive summary.
+> **Executive Summary**: Start with [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) for a consolidated overview.
 
 ### Phase 1: The Question
 
@@ -201,7 +201,7 @@ MIT License - See [LICENSE](./LICENSE) for details.
 
 <div align="center">
 
-_A research experiment managed with **Antigravity** Protocol_
+_Research conducted by **Luis Sambrano**_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=100&section=footer"/>
 

@@ -53,7 +53,7 @@ Este repositorio es un **laboratorio de investigación** que documenta el viaje 
 
 ## 📖 Viaje de Investigación
 
-> 💡 **Para IAs**: Comienza con [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) para el resumen ejecutivo consolidado.
+> **Resumen Ejecutivo**: Comienza con [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) para una visión consolidada.
 
 ### Fase 1: La Pregunta
 
@@ -96,7 +96,7 @@ MIT License - Ver [LICENSE](./LICENSE) para detalles.
 
 <div align="center">
 
-_Un experimento de investigación gestionado con el Protocolo **Antigravity**_
+_Investigación realizada por **Luis Sambrano**_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=100&section=footer"/>
 

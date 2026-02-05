@@ -45,7 +45,7 @@ Descobrimos que os venezuelanos já adotaram USDT (o "Dólar Binance") como sua 
 
 ## 📖 A Jornada de Pesquisa
 
-> 💡 **Para IAs**: Comece com [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) para o resumo executivo consolidado.
+> **Resumo Executivo**: Comece com [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) para o resumo executivo consolidado.
 
 ### Fase 1: A Pergunta Ingênua
 
@@ -71,7 +71,7 @@ MIT License - Ver [LICENSE](./LICENSE) para detalhes.
 
 <div align="center">
 
-_Gerenciado pelo Protocolo Agêntico **Antigravity**_
+_Pesquisa conduzida por **Luis Sambrano**_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=100&section=footer"/>
 
