@@ -1,12 +1,12 @@
 <![CDATA[<div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=200&section=header&text=Invisible%20Gateway&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Research%20%7C%20Venezuela%20%7C%20Financial%20Resilience&descSize=18&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=200&section=header&text=Bolívar%20Stablecoin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Research%20Experiment%20%7C%20Venezuela%20%7C%20Open%20Source&descSize=18&descAlignY=55"/>
 
 <!-- BADGES -->
 <p>
-  <a href="#-executive-summary"><img src="https://img.shields.io/badge/Phase-Research-blueviolet?style=for-the-badge" alt="Phase: Research"/></a>
-  <a href="./manifesto.md"><img src="https://img.shields.io/badge/Ethics-Neutral_Research-green?style=for-the-badge" alt="Ethics"/></a>
+  <a href="#-about-this-experiment"><img src="https://img.shields.io/badge/Type-Research_Experiment-blueviolet?style=for-the-badge" alt="Type: Research Experiment"/></a>
+  <a href="./manifesto.md"><img src="https://img.shields.io/badge/Ethics-Neutral_Academic-green?style=for-the-badge" alt="Ethics"/></a>
   <a href="#-license"><img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License"/></a>
 </p>
 
@@ -19,26 +19,35 @@
 
 ---
 
-**From "Stablecoin" to "Resilience Infrastructure"**  
-_A rigorous research journey documenting why we pivoted from building a token to building a bridge._
+**A rigorous, open-source research experiment exploring:** _Can a Bolivar-pegged stablecoin exist? How would one be built? What are the challenges?_
 
 </div>
 
 ---
 
-## 🎯 Executive Summary
+## 🧪 About This Experiment
 
-This repository documents **12+ months of research** into the viability of a Bolivar-pegged stablecoin for Venezuela. The conclusion was counter-intuitive:
+This repository is a **research laboratory** documenting the complete journey of investigating the viability, architecture, and challenges of creating a stablecoin for Venezuela.
 
-> **The market doesn't need another coin. It needs invisible infrastructure.**
+> **We are NOT building a product.** We are documenting the process of researching how one *could* be built.
 
-We discovered that Venezuelans already adopted USDT (the "Binance Dollar") as their de-facto reserve currency. The real pain point isn't _storing value_—it's **spending it safely** without bank account freezes, P2P scams, or platform shutdowns.
+### What This Repository Contains
 
-**This repository captures:**
-- ❌ Why a "Bolívar Stablecoin" was a dead end (algorithmic fragility, legal risk)
-- ✅ Why an "Invisible Gateway" (hold USD, spend Bs. automatically) is the viable path
-- 📊 Deep research prompts for quantitative validation
-- 🏗️ Conceptual architecture for Celo + MiniPay integration
+| Category | Description |
+|----------|-------------|
+| 📊 **Market Research** | Data on crypto adoption in Venezuela, user behavior, pain points |
+| 🏗️ **Technical Analysis** | Stablecoin architectures, collateralization mechanisms, case studies |
+| ⚖️ **Regulatory Landscape** | Legal frameworks, SUNACRIP status, OFAC implications |
+| 🧠 **User Psychology** | Financial behavior under hyperinflation, trust signals, UX patterns |
+| 📐 **Architecture Options** | Multiple potential approaches (fiat-backed, crypto-backed, hybrid) |
+| 🔬 **Research Prompts** | Structured queries for deep research on specific topics |
+
+### What This Repository Does NOT Contain
+
+- ❌ A finished product or token
+- ❌ Investment advice
+- ❌ Political affiliation
+- ❌ A definitive "answer" (research is ongoing)
 
 ---
 
@@ -50,21 +59,21 @@ bolivar-stablecoin-research/
 ├── 📜 manifesto.md                    # Research ethics & principles
 │
 ├── 🔬 research/
-│   ├── viability_analysis.md          # Original hypothesis (pre-pivot)
+│   ├── viability_analysis.md          # Initial hypothesis & analysis
 │   │
-│   ├── deep_dive/                     # Phase 1: Deep Research
+│   ├── deep_dive/                     # In-depth research modules
 │   │   ├── 01_fundamentals_and_global_context.md
 │   │   ├── 02_venezuela_market_context.md
 │   │   ├── 03_user_psychology_ux.md
 │   │   └── 04_final_viability_verdict.md
 │   │
-│   ├── proposals/                     # Phase 2: Strategic Pivot
+│   ├── proposals/                     # Potential architecture options
 │   │   ├── 01_invisible_gateway_architecture.md
 │   │   ├── 02_compliance_user_flows.md
 │   │   ├── 03_integration_ecosystem.md
 │   │   └── 04_whitepaper_lite.md
 │   │
-│   ├── prompts/                       # Gemini Deep Research Prompts
+│   ├── prompts/                       # Deep Research AI prompts
 │   │   ├── 01_market_data.md
 │   │   ├── 02_competitive_analysis.md
 │   │   ├── 03_regulatory_framework.md
@@ -77,72 +86,66 @@ bolivar-stablecoin-research/
 │   └── case_studies/                  # External case analysis
 │
 ├── 🏛️ architecture/
-│   └── initial_hypothesis.md          # Original tech stack proposal
+│   └── initial_hypothesis.md          # Original tech stack exploration
 │
-├── ⚖️ legal/                           # Regulatory analysis
+├── ⚖️ legal/                           # Regulatory research
 │
 ├── 📐 docs/
-│   ├── diagrams/                      # Mermaid & architecture diagrams
+│   ├── diagrams/                      # Architecture diagrams
 │   └── assets/                        # Images & media
 │
-└── 🧪 prototypes/                      # Future: POC code (Phase 3)
+└── 🧪 prototypes/                      # Future: Experimental code
 ```
 
 ---
 
-## 📖 The Research Journey
+## 📖 Research Journey
 
-### Phase 1: The Naive Question
-> _"Why not create a stablecoin pegged to the Bolivar?"_
+### Phase 1: The Question
+> _"Is it technically and economically viable to create a Bolivar-pegged stablecoin?"_
 
-We started by analyzing a viral X thread proposing this idea. Initial viability analysis revealed:
-- ⚠️ **Technical Risk**: Algorithmic stablecoins (Terra model) are fragile
-- ⚠️ **Legal Risk**: SUNACRIP and Petro collapse left regulatory vacuum
-- ⚠️ **Market Reality**: Venezuelans don't trust the Bolivar—period
+We started by analyzing public discussions about this concept and conducting initial viability research.
 
 📄 See: [viability_analysis.md](./research/viability_analysis.md)
 
-### Phase 2: The Deep Dive
-We conducted exhaustive research across 8 dimensions:
-1. Stablecoin fundamentals & collateralization mechanisms
+### Phase 2: Deep Research
+Exhaustive investigation across 8 dimensions:
+1. Stablecoin fundamentals & mechanisms
 2. Global regulatory landscape (MiCA, GENIUS Act)
 3. Case studies: USDC success vs. Terra failure
-4. Venezuela market context (El Dorado shutdown, P2P dominance)
+4. Venezuela market context & adoption patterns
 5. Social listening & user sentiment
-6. UX pain points (account freezes, scam anxiety)
+6. UX pain points & barriers
 7. Consumer psychology under hyperinflation
-8. Final viability synthesis
+8. Viability synthesis
 
 📄 See: [research/deep_dive/](./research/deep_dive/)
 
-### Phase 3: The Pivot
-The research led to a strategic pivot:
+### Phase 3: Architecture Exploration
+Documenting potential approaches discovered during research:
+- Fiat-backed (1:1 reserve)
+- Crypto-collateralized
+- Hybrid/Layer solutions ("Invisible Gateway" concept)
 
-| Original Idea | Pivoted Strategy |
-|---------------|------------------|
-| Emit a new token (`BsD`) | Use existing stablecoins (`cUSD/USDT`) |
-| Compete with USDT | Build infrastructure _on top_ of USDT |
-| Create a currency | Create a **payment rail** |
+📄 See: [research/proposals/](./research/proposals/)
 
-**The "Invisible Gateway" concept:**
-- User holds cUSD (stable, their keys)
-- User pays in Bolivars (via automated Market Makers)
-- No crypto visible in bank statements (compliance-safe)
+### Phase 4: Quantitative Validation (In Progress)
+Using structured prompts with AI Deep Research to gather hard data.
 
-📄 See: [research/proposals/04_whitepaper_lite.md](./research/proposals/04_whitepaper_lite.md)
+📄 See: [research/prompts/](./research/prompts/)
 
 ---
 
-## 🔬 Research Prompts (For Deep Research AI)
+## 🔬 Research Prompts
 
-We've created 6 specialized prompts for use with **Gemini 3.5 Deep Research** to fill data gaps:
+We've created 6 specialized prompts for use with **Gemini Deep Research**:
 
-| Prompt | Purpose | Status |
-|--------|---------|--------|
+| Prompt | Research Focus | Status |
+|--------|----------------|--------|
 | [01_market_data.md](./research/prompts/01_market_data.md) | Quantitative market metrics | 🟡 Pending |
-| [02_competitive_analysis.md](./research/prompts/02_competitive_analysis.md) | Binance SWOT analysis | 🟡 Pending |
+| [02_competitive_analysis.md](./research/prompts/02_competitive_analysis.md) | Binance competitive landscape | 🟡 Pending |
 | [03_regulatory_framework.md](./research/prompts/03_regulatory_framework.md) | Post-Petro legal landscape | 🟡 Pending |
-| [04_user_psychology.md](./research/prompts/04_user_psychology.md) | Financial trauma & trust signals | 🟡 Pending |
+| [04_user_psychology.md](./research/prompts/04_user_psychology.md) | Financial trauma & trust | 🟡 Pending |
 | [05_business_model.md](./research/prompts/05_business_model.md) | Unit economics of ramps | 🟡 Pending |
 | [06_liquidity_risk.md](./research/prompts/06_liquidity_risk.md) | Market maker viability | 🟡 Pending |
 
@@ -155,18 +158,18 @@ This project adheres to strict ethical guidelines documented in [manifesto.md](.
 - **Neutrality**: No political affiliation
 - **Privacy**: User data protection by design
 - **Open Source**: All findings are public (MIT License)
-- **Sandbox**: Theoretical exercise, not investment advice
+- **Academic**: Theoretical exercise, not investment advice
 
 ---
 
-## 🚀 Roadmap
+## 🚀 Research Roadmap
 
 - [x] **Phase 1**: Initial hypothesis & viability analysis
 - [x] **Phase 2**: Deep research (8 modules)
-- [x] **Phase 3**: Strategic pivot & architecture proposal
-- [ ] **Phase 4**: Quantitative data collection (prompts)
-- [ ] **Phase 5**: Prototype on Celo Alfajores (testnet)
-- [ ] **Phase 6**: User validation (MiniPay integration)
+- [x] **Phase 3**: Architecture options exploration
+- [ ] **Phase 4**: Quantitative data collection
+- [ ] **Phase 5**: Comparative analysis & synthesis
+- [ ] **Phase 6**: Final research report
 
 ---
 
@@ -174,12 +177,10 @@ This project adheres to strict ethical guidelines documented in [manifesto.md](.
 
 We welcome contributions in:
 - 📊 Economic modeling & data analysis
-- 🔐 Smart contract security review
+- 🔐 Technical architecture review
 - ⚖️ Regulatory compliance research
 - 🧠 UX/Psychology research
 - 🌍 Translation (ES/PT/EN)
-
-Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting PRs.
 
 ---
 
@@ -191,7 +192,7 @@ MIT License - See [LICENSE](./LICENSE) for details.
 
 <div align="center">
 
-_Managed by **Antigravity** Agentic Protocol_
+_A research experiment managed with **Antigravity** Protocol_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=100&section=footer"/>
 
