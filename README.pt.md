@@ -1,56 +1,73 @@
-# Pesquisa Stablecoin Bolívar (BsD)
+<![CDATA[<div align="center">
 
-> **Repositório de Pesquisa Experimental**  
-> _Analisando a viabilidade técnica, econômica e arquitetônica de uma stablecoin atrelada ao Bolívar._
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=200&section=header&text=Gateway%20Invisível&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Pesquisa%20%7C%20Venezuela%20%7C%20Resiliência%20Financeira&descSize=18&descAlignY=55"/>
 
-[![Language: English](https://img.shields.io/badge/Lang-English-blue)](./README.md)
-[![Idioma: Español](https://img.shields.io/badge/Lang-Español-green)](./README.es.md)
-[![Língua: Português](https://img.shields.io/badge/Lang-Português-orange)](./README.pt.md)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Status: Conceito](https://img.shields.io/badge/Status-Conceito-lightgrey)]()
+<!-- BADGES -->
+<p>
+  <a href="#-resumo-executivo"><img src="https://img.shields.io/badge/Fase-Pesquisa-blueviolet?style=for-the-badge" alt="Fase: Pesquisa"/></a>
+  <a href="./manifesto.md"><img src="https://img.shields.io/badge/Ética-Pesquisa_Neutra-green?style=for-the-badge" alt="Ética"/></a>
+  <a href="#-licença"><img src="https://img.shields.io/badge/Licença-MIT-yellow?style=for-the-badge" alt="Licença"/></a>
+</p>
 
----
-
-## 📋 Visão Geral
-
-Este repositório serve como um **sandbox técnico e acadêmico** para explorar o conceito de uma stablecoin atrelada ao Bolívar Venezuelano (VES/Bs.). Inspirado por discussões públicas sobre a viabilidade de ferramentas financeiras descentralizadas em economias emergentes, este projeto visa prototipar, analisar e documentar arquiteturas potenciais sem afiliação política ou intenção comercial imediata.
-
-### 🎯 Objetivos
-
-1.  **Análise de Viabilidade**: Avaliar desafios técnicos, econômicos e legais.
-2.  **Prototipagem de Arquitetura**: Projetar e simular fluxos de emissão/resgate em redes blockchain (L2s, Solana, etc.).
-3.  **Transparência**: Promover discussão aberta sobre finanças descentralizadas na Venezuela.
-
-## 🛠️ Componentes
-
-- **`/research`**: Modelos econômicos, estudos de viabilidade legal e análise de conversas.
-- **`/architecture`**: Design de sistema, diagramas de fluxo (Mermaid) e seleção de tecnologia.
-- **`/prototypes`**: Contratos inteligentes de prova de conceito e scripts de interação.
-
-## 🚀 Começando
-
-Este é atualmente um repositório de pesquisa. Para acompanhar o progresso:
-
-1.  Clone o repositório:
-    ```bash
-    git clone https://github.com/LuisSambrano/bolivar-stablecoin-research.git
-    ```
-2.  Revise a [Análise de Viabilidade](./research/viability_analysis.md).
-
-## ⚠️ Isenção de Responsabilidade
-
-Este projeto é **apenas para fins educacionais e de pesquisa**. Não constitui aconselhamento financeiro, nem é um produto financeiro ativo. "BsD" é um token teórico usado para simulação.
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas, especialmente nas áreas de:
-
-- Modelagem econômica.
-- Segurança de contratos inteligentes.
-- Pesquisa de conformidade regulatória.
-
-Por favor, leia nossas [Diretrizes de Contribuição](./CONTRIBUTING.md) antes de enviar um Pull Request.
+<!-- LANGUAGE SWITCHER -->
+<p>
+  <a href="./README.md"><img src="https://img.shields.io/badge/🇺🇸_English-Available-lightgrey?style=flat-square" alt="English"/></a>
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/🇪🇸_Español-Available-lightgrey?style=flat-square" alt="Español"/></a>
+  <a href="./README.pt.md"><img src="https://img.shields.io/badge/🇧🇷_Português-Selecionado-blue?style=flat-square" alt="Português"/></a>
+</p>
 
 ---
 
-_Gerenciado por **Antigravity** Agentic Protocol._
+**De "Stablecoin" para "Infraestrutura de Resiliência"**  
+_Uma jornada de pesquisa rigorosa documentando por que pivotamos de construir um token para construir uma ponte._
+
+</div>
+
+---
+
+## 🎯 Resumo Executivo
+
+Este repositório documenta **+12 meses de pesquisa** sobre a viabilidade de uma stablecoin atrelada ao Bolívar para a Venezuela. A conclusão foi contraintuitiva:
+
+> **O mercado não precisa de outra moeda. Precisa de infraestrutura invisível.**
+
+Descobrimos que os venezuelanos já adotaram USDT (o "Dólar Binance") como sua moeda de reserva de facto. O verdadeiro ponto de dor não é _armazenar valor_—é **gastá-lo com segurança** sem bloqueios bancários, golpes P2P ou fechamento de plataformas.
+
+**Este repositório captura:**
+- ❌ Por que uma "Stablecoin do Bolívar" era um beco sem saída
+- ✅ Por que um "Gateway Invisível" é o caminho viável
+- 📊 Prompts de pesquisa profunda para validação quantitativa
+- 🏗️ Arquitetura conceitual para integração Celo + MiniPay
+
+---
+
+## 📖 A Jornada de Pesquisa
+
+### Fase 1: A Pergunta Ingênua
+> _"Por que não criar uma stablecoin atrelada ao Bolívar?"_
+
+### Fase 2: A Pesquisa Profunda
+Pesquisa exaustiva em 8 dimensões cobrindo fundamentos técnicos, contexto regulatório, psicologia do usuário e análise de mercado.
+
+### Fase 3: O Pivô
+A pesquisa levou a um pivô estratégico: de emitir um token para construir uma **infraestrutura de pagamento**.
+
+📄 Ver: [research/proposals/04_whitepaper_lite.md](./research/proposals/04_whitepaper_lite.md)
+
+---
+
+## 📜 Licença
+
+MIT License - Ver [LICENSE](./LICENSE) para detalhes.
+
+---
+
+<div align="center">
+
+_Gerenciado pelo Protocolo Agêntico **Antigravity**_
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=100&section=footer"/>
+
+</div>
+]]>
