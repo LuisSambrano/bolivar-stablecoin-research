@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Bolivar Stablecoin Viability Research"
+message: >-
+  If you use this research experiment, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Luis
+    family-names: Sambrano
+    orcid: "https://orcid.org/0009-0006-0679-9847"
+repository-code: "https://github.com/LuisSambrano/bolivar-stablecoin-research"
+url: "https://github.com/LuisSambrano/bolivar-stablecoin-research"
+doi: 10.5281/zenodo.18775425
+version: 1.0.1
+date-released: "2026-02-25"

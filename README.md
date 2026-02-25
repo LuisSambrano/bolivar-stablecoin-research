@@ -183,6 +183,16 @@ This project adheres to strict ethical guidelines documented in [manifesto.md](.
 
 ---
 
+## 📝 How to Cite
+
+If you use this research or reference this repository, please cite it using the following DOI:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18775425.svg)](https://doi.org/10.5281/zenodo.18775425)
+
+A `CITATION.cff` file is included in the root directory. You can also use GitHub's standard "Cite this repository" widget on the right sidebar.
+
+---
+
 ## 🤝 Contributing
 
 We welcome contributions in:
